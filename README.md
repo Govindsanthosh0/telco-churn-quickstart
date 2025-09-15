@@ -1,3 +1,9 @@
+# Telco Customer Churn – EDA & Logistic Regression Model  
+
+Analyzed IBM’s Telco Churn dataset to identify why customers leave and trained a Logistic Regression model achieving **ROC-AUC = 0.84**.  
+
+![Churn Count](assets/churn_count.png)
+
 # Telco Customer Churn – Fast EDA & Baseline Model
 **Goal:** Explain drivers of customer churn and train a baseline model in under 60 minutes.
 
@@ -23,3 +29,12 @@ Open the notebooks in order. The first cell downloads the dataset automatically.
 - Overall churn rate
 - AUC score of baseline model
 - Top 10 drivers (absolute logistic coefficients)
+## Results
+
+**Churn Rate:** 26.6%  
+**ROC-AUC (Logistic Regression):** <paste AUC value here>
+
+### Key Insights
+- Month-to-month contracts have the highest churn risk.
+- Customers with longer tenure churn far less often.
+- AutoPay and credit card payments correlate with lower churn.
