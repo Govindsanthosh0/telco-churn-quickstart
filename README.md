@@ -38,3 +38,7 @@ Open the notebooks in order. The first cell downloads the dataset automatically.
 - Month-to-month contracts have the highest churn risk.
 - Customers with longer tenure churn far less often.
 - AutoPay and credit card payments correlate with lower churn.
+![aaa](https://github.com/user-attachments/assets/a4131579-e72f-4799-8a6c-d0f4103106f3)
+
+![11111](https://github.com/user-attachments/assets/9c4565f3-03ca-41fd-b3af-81e83c54dd29)
+
